@@ -1,4 +1,4 @@
-# 🌐 React Website
+# 🌐 pizzahub Website
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=for-the-badge)](https://react-website.netlify.app)
 ![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
