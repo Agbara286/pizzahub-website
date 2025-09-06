@@ -10,8 +10,6 @@ Built with ❤️ using React, CSS, and JavaScript.
 
 ---
 
-## 🔗 Live Demo
-👉 [View Live Demo](https://react-website.netlify.app)
 
 ---
 
